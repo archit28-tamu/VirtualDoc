@@ -61,6 +61,7 @@ To get started with VirtualDoc, follow these steps:
 ## Contributors
 
 - [Zachary Laguna](https://github.com/zacharylaguna)
+- - [Archit Gupta](https://github.com/archit28-tamu)
 
 ## License
 
