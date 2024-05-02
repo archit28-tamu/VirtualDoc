@@ -2,6 +2,8 @@
 
 VirtualDoc is a web application designed to provide virtual assistance similar to a remote doctor. With VirtualDoc, users can simply speak into the microphone, describing their symptoms as they would to a doctor, and the application will analyze the symptoms and output potential causes and remedies.
 
+[Project Website](https://sites.google.com/tamu.edu/virtualdoc/home)
+
 ## Features
 
 - **Speech-to-Text Input:** Users can speak into the microphone, describing their symptoms, and VirtualDoc will convert their speech into text for analysis.
